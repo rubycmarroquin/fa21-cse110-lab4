@@ -9,4 +9,4 @@ let statistic = {
 
 for (const [key, value] of Object.entries(statistic)) {
     console.log(`${key}: ${value}`);
-}
+} 
